@@ -85,4 +85,4 @@ async def on_message(message: discord.Message):
         await message.channel.send(boardstr)
     
 
-client.run('MTA4MzQ5NzUzMDgzMjE5OTczMA.GieV3F.Gorz6-9DTL30TJ-Ef20fRie7p5Ig6Mp4GV--Mo')
+client.run('Your Token')
